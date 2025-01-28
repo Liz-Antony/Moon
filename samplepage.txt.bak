@@ -14,5 +14,3 @@ class Cart extends Facade {
         return 'cart';
     }
 }
-dfjaklhdfajhda
-dhfafajkdhl
